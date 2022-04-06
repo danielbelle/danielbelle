@@ -9,8 +9,8 @@ Eespecialista em vendas e retornando ao mundo da programação!
 
 <div align="center">
   <a href="https://github.com/Ponja94">
-  <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=Ponja94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ponja94&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Ponja94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ponja94&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="P-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
