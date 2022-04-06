@@ -1,8 +1,8 @@
-## Olá, eu sou o Daniel Henrique Bellé ^^', especialista em vendas e retornando ao mundo da programação!
+## Olá, eu sou o Daniel Henrique Bellé ^^'
 
-Here are some ideas to get you started:
+Eespecialista em vendas e retornando ao mundo da programação!
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com front-end e vendas SaaS
 - 🌱 Estudando back-end python
 - 😄 Pronomes: ele/dele
 - ⚡ Fato divertido: comer manga e tomar leite não fazem mal! =)~
