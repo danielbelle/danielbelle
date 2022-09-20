@@ -8,7 +8,7 @@ Eespecialista em vendas e retornando ao mundo da programação!
 - ⚡ Fato divertido: comer manga e tomar leite não fazem mal! =)~
 
 <div align="center">
-  <a href="https://github.com/Ponja94">
+  <a href="https://github.com/danielbelle">
   <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=danielbelle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbelle&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -34,6 +34,6 @@ Eespecialista em vendas e retornando ao mundo da programação!
   <a href = "mailto:henrique.danielb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/Ponja94/Ponja94/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielbelle/danielbelle/blob/output/github-contribution-grid-snake.svg)
  
 </div>
