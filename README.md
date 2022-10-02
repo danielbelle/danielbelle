@@ -1,11 +1,11 @@
 ## Olá, eu sou o Daniel Henrique Bellé ^^'
 
-Eespecialista em vendas e retornando ao mundo da programação!
 
-- 🔭 Hoje trabalho com front-end e vendas SaaS
-- 🌱 Estudando back-end python
+- 🔭 Trabalhando como desenvolvedor Full stack ReactJS - PHP e MySQL
+- 🌱 Estudando PHP e Cloud Computing
 - 😄 Pronomes: ele/dele
-- ⚡ Fato divertido: comer manga e tomar leite não fazem mal! =)~
+- ⚡ Resumo: Entusiasta obcecado pelas tecnologias de frontend e backend. Profissional dedicado ao desenvolvimento de sites com mais de 1 ano de experiência fornecendo momentos inesquecíveis aos clientes, mantendo o vício em aprender tecnologias que melhorem o dia-a-dia dos usuários. Atuando há 3 meses como desenvolvedor Full Stack ReactJS - PHP e MySQL. Com o desejo irresistível de mexer, descobrir as coisas e criar infraestruturas que envolvam JavaScript, HTML, CSS, Python, Django, React.js, Node.js, PHP, MySQL e mobile.
+
 
 <div align="center">
   <a href="https://github.com/danielbelle">
