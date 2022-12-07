@@ -1,10 +1,19 @@
 ## Olá, eu sou o Daniel Henrique Bellé ^^'
 
 
-- 🔭 Trabalhando como desenvolvedor Full stack ReactJS - PHP e MySQL
+- 🔭 Trabalhando como desenvolvedor PHP
 - 🌱 Estudando PHP e Cloud Computing
 - 😄 Pronomes: ele/dele
-- ⚡ Resumo: Entusiasta obcecado pelas tecnologias de frontend e backend. Profissional dedicado ao desenvolvimento de sites com mais de 1 ano de experiência fornecendo momentos inesquecíveis aos clientes, mantendo o vício em aprender tecnologias que melhorem o dia-a-dia dos usuários. Atuando há 3 meses como desenvolvedor Full Stack ReactJS - PHP e MySQL. Com o desejo irresistível de mexer, descobrir as coisas e criar infraestruturas que envolvam JavaScript, HTML, CSS, Python, Django, React.js, Node.js, PHP, MySQL e mobile.
+
+Entusiasta obcecado pelas tecnologias de frontend e backend. 
+
+Profissional dedicado ao desenvolvimento de sites com mais de 1 ano de experiência fornecendo momentos inesquecíveis aos clientes, mantendo o vício em aprender tecnologias que melhorem o dia-a-dia dos usuários. 
+
+Atuando como desenvolvedor Full Stack Junior JavaScript e PHP. Neste caminho desenvolvi APIs Restfull, realizei manutenção e desenvolvi novas funcionalidades que envolviam endpoints CRUD. 
+
+Também realizo meus projetos para estudo, como uma API de pedidos de compras que desenvolvi usando o CodeIgniter PHP e HTML, CSS e Bootstrap. Gravei um vídeo explicando como utilizar a API https://youtu.be/CeQu0g-ifZU
+
+E nas horas vagas estou estudando TypeScript, Vue.js e Laravel. Porque meu objetivo é trabalhar com estas tecnologias.
 
 
 <div align="center">
