@@ -11,7 +11,7 @@ Profissional dedicado ao desenvolvimento de sites com mais de 1 ano de experiên
 
 Atuando como desenvolvedor Full Stack Junior JavaScript e PHP. Neste caminho desenvolvi APIs Restfull, realizei manutenção e desenvolvi novas funcionalidades que envolviam endpoints CRUD. 
 
-Também realizo meus projetos para estudo, como uma API de pedidos de compras que desenvolvi usando o CodeIgniter PHP e HTML, CSS e Bootstrap. Gravei um vídeo explicando como utilizar a API https://youtu.be/CeQu0g-ifZU
+Também realizo meus projetos para estudo, como uma API de pedidos de compras que desenvolvi usando o CodeIgniter PHP e HTML, CSS e Bootstrap. Gravei um vídeo explicando como utilizar a API https://youtu.be/G1Brhqz-PqM
 
 E nas horas vagas estou estudando TypeScript, Vue.js e Laravel. Porque meu objetivo é trabalhar com estas tecnologias.
 
