@@ -18,8 +18,6 @@ E nas horas vagas gosto de ler livros de Ficção Científica.
 
 <div align="center">
   <a href="https://github.com/danielbelle">
-  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=danielbelle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbelle&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="P-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
