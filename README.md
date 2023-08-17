@@ -5,15 +5,15 @@
 - 🌱 Estudando PHP e Cloud Computing
 - 😄 Pronomes: ele/dele
 
-Entusiasta obcecado pelas tecnologias de frontend e backend. 
+Entusiasta obcecado por desenvolvimento web. Profissional dedicado ao desenvolvimento de soluções que possam proporcionar momentos inesquecíveis aos usuários.
 
-Profissional dedicado ao desenvolvimento de sites com mais de 1 ano de experiência fornecendo momentos inesquecíveis aos clientes, mantendo o vício em aprender tecnologias que melhorem o dia-a-dia dos usuários. 
+<para-rir>
+Atuo como desenvolvedor Backend JavaScript e PHP há 1 ano. Neste caminho já dei muito DELETE no PostgreSQL sem utilizar WHERE =(, comecei muitos projetos nomeando variáveis em português e terminei em inglês, commitei no Github sem debugar e fazer testes (vergonha) e ganhei o premio do usuário que mais pesquisou mensagens de erro StackOverflow ao invés de ler a documentação oficial (risos). 
+</para-rir>
 
-Atuando como desenvolvedor Full Stack Junior JavaScript e PHP. Neste caminho desenvolvi APIs Restfull, realizei manutenção e desenvolvi novas funcionalidades que envolviam endpoints CRUD. 
+Compartilho meus projetos no YouTube, como uma API de pedidos de compras que desenvolvi usando o CodeIgniter PHP e HTML, CSS e Bootstrap. Gravei um vídeo explicando como utilizar a API https://youtu.be/CeQu0g-ifZU
 
-Também realizo meus projetos para estudo, como uma API de pedidos de compras que desenvolvi usando o CodeIgniter PHP e HTML, CSS e Bootstrap. Gravei um vídeo explicando como utilizar a API https://youtu.be/G1Brhqz-PqM
-
-E nas horas vagas estou estudando TypeScript, Vue.js e Laravel. Porque meu objetivo é trabalhar com estas tecnologias.
+E nas horas vagas gosto de ler livros de Ficção Científica.
 
 
 <div align="center">
