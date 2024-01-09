@@ -2,8 +2,7 @@
 
 
 - 🔭 Trabalhando como desenvolvedor PHP
-- 🌱 Estudando PHP e Cloud Computing
-- 😄 Pronomes: ele/dele
+- 🌱 Estudando React JS
 
 Entusiasta obcecado por desenvolvimento web. Profissional dedicado ao desenvolvimento de soluções que possam proporcionar momentos inesquecíveis aos usuários.
 
