@@ -7,7 +7,7 @@
 Entusiasta obcecado por desenvolvimento web. Profissional dedicado ao desenvolvimento de soluções que possam proporcionar momentos inesquecíveis aos usuários.
 
 <para-rir>
-Atuo como desenvolvedor Backend JavaScript e PHP há 1 ano. Neste caminho já dei muito DELETE no PostgreSQL sem utilizar WHERE =(, comecei muitos projetos nomeando variáveis em português e terminei em inglês, commitei no Github sem debugar e fazer testes (vergonha) e ganhei o premio do usuário que mais pesquisou mensagens de erro StackOverflow ao invés de ler a documentação oficial (risos). 
+Atuo como desenvolvedor Backend JavaScript e PHP há 1 ano. Neste caminho já dei muito DELETE no PostgreSQL sem utilizar WHERE 😄, comecei muitos projetos nomeando variáveis em português e terminei em inglês, commitei no Github sem debugar e fazer testes (vergonha) e ganhei o premio do usuário que mais pesquisou mensagens de erro StackOverflow ao invés de ler a documentação oficial (risos). 
 </para-rir>
 
 Compartilho meus projetos no YouTube, como uma API de pedidos de compras que desenvolvi usando o CodeIgniter PHP e HTML, CSS e Bootstrap. Gravei um vídeo explicando como utilizar a API https://youtu.be/CeQu0g-ifZU
