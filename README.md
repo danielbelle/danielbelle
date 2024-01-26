@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalhando como desenvolvedor PHP
-- 🌱 Estudando React JS
+- 🌱 Estudando ReactJS
 
 Entusiasta obcecado por desenvolvimento web. Profissional dedicado ao desenvolvimento de soluções que possam proporcionar momentos inesquecíveis aos usuários.
 
