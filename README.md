@@ -1,8 +1,8 @@
 ## Olá, eu sou o Daniel Henrique Bellé ^^'
 
 
-- 🔭 Trabalhando como desenvolvedor PHP
-- 🌱 Estudando ReactJS
+- 🔭 Trabalhando como desenvolvedor PHP e ReactJS
+- 🌱 Implementando soluções em ReactJS e Tailwindcss
 
 Entusiasta obcecado por desenvolvimento web. Profissional dedicado ao desenvolvimento de soluções que possam proporcionar momentos inesquecíveis aos usuários.
 
