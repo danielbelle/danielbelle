@@ -1,18 +1,29 @@
-## Olá, eu sou o Daniel Henrique Bellé ^^'
+## Hello, I'm Daniel Henrique Bellé ^^'
 
 
-- 🔭 Trabalhando como desenvolvedor PHP e ReactJS
-- 🌱 Implementando soluções em ReactJS e Tailwindcss
+- 🔭 Working as a PHP and ReactJS developer
+- 🌱 Implementing solutions in ReactJS and Tailwindcss
 
-Entusiasta obcecado por desenvolvimento web. Profissional dedicado ao desenvolvimento de soluções que possam proporcionar momentos inesquecíveis aos usuários.
+Obsessed web development enthusiast. Professional dedicated to developing solutions that can provide unforgettable moments for users.
 
-<para-rir>
-Atuo como desenvolvedor Backend JavaScript e PHP há 1 ano. Neste caminho já dei muito DELETE no PostgreSQL sem utilizar WHERE 😄, comecei muitos projetos nomeando variáveis em português e terminei em inglês, commitei no Github sem debugar e fazer testes (vergonha) e ganhei o premio do usuário que mais pesquisou mensagens de erro StackOverflow ao invés de ler a documentação oficial (risos). 
-</para-rir>
+Portfolio: https://resume-daniel.vercel.app/
 
-Compartilho meus projetos no YouTube, como uma API de pedidos de compras que desenvolvi usando o CodeIgniter PHP e HTML, CSS e Bootstrap. Gravei um vídeo explicando como utilizar a API https://youtu.be/CeQu0g-ifZU
+<for-laugh>
+I have been working as a Backend JavaScript and PHP developer for 1 year. Along this path, I've done a lot of DELETE in PostgreSQL without using WHERE =(, I started many projects naming variables in Portuguese and finished them in English, I committed them to Github without debugging and testing (shame) and I won the award for the user who searched for the most StackOverflow error messages instead of reading the official documentation (laughs).
+</for-laugh>
+
+I share my projects on YouTube, such as a purchase order API that I developed using CodeIgniter PHP and HTML, CSS and Bootstrap. I recorded a video explaining how to use the API https://youtu.be/CeQu0g-ifZU
 
 E nas horas vagas gosto de ler livros de Ficção Científica.
+
+Summary of knowledge:
+- Object Oriented Programming;
+- MVC architecture;
+- PostgreSQL;
+- Docker;
+- Rest and JSON APIs;
+- Frontend (HTML, CSS, Bootstrap, Tailwind);
+- Github/Gitlab versioning
 
 
 <div align="center">
