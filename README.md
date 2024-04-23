@@ -31,8 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/danielbelle"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="danielbelle" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielbelle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="danielbelle" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielbelle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="danielbelle" />
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=danielbelle&show_icons=true&locale=en" alt="danielbelle" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielbelle&show_icons=true&locale=en" alt="danielbelle" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=danielbelle&" alt="danielbelle" /></p>
