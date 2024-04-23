@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbelle&label=Profile%20views&color=0e75b6&style=flat" alt="danielbelle" /> </p>
 
-
 - 🔭 I’m currently working on **Plante.ia and DDS IT Solutions**
 
 - 🌱 I’m currently learning **Next.js**
 
-- 🤝 I’m looking for help with **Improve my developer skills**
+- 🤝 I’m looking for help to **improve my developer skills**
 
 - 👨‍💻 All of my projects are available at [https://resume-daniel.vercel.app/](https://resume-daniel.vercel.app/)
 
@@ -30,7 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/danielbelle"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="danielbelle" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielbelle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="danielbelle" />
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=danielbelle&show_icons=true&locale=en" alt="danielbelle" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielbelle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="danielbelle" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielbelle&show_icons=true&locale=en" alt="danielbelle" /></p>
