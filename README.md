@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielbelle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="danielbelle" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=danielbelle&show_icons=true&theme=dracula&locale=en" alt="danielbelle" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=danielbelle&show_icons=true&theme=dracula&locale=en" alt="danielbelle" /></p>
