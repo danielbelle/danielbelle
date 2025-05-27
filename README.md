@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbelle&label=Profile%20views&color=0e75b6&style=flat" alt="danielbelle" /> </p>
 
-- 🔭 I’m currently working on **Plante.ia and DDS IT Solutions**
+- 🔭 I’m currently **open to work**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking for help to **improve my developer skills**
 
 - 👨‍💻 All of my projects are available at [https://resume-daniel.vercel.app/](https://resume-daniel.vercel.app/)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript and PHP**
 
 - 📫 How to reach me **henrique.danielb@gmail.com**
 
