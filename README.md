@@ -1,17 +1,18 @@
 <h1 align="center">Olá 👋, eu sou Daniel Henrique Bellé</h1>
-<h3 align="center">Desenvolvedor Full Stack | JavaScript | React | PHP | Laravel</h3>
+<h3 align="center">Desenvolvedor Full Stack | JavaScript | React | Next.js | PHP | Laravel</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=danielbelle&label=Visualizações&color=0e75b6&style=flat" alt="danielbelle" /> 
 </p>
 
 ### 🔥 Destaques:
-- **Migrei 50+ páginas PHP** para React + Tailwind CSS (**+15% performance**).
-- **Desenvolvi APIs REST** que substituíram 6 mil planilhas Excel (**-40% erros**).
-- **Soluções Full Stack** com React, Node.js e Laravel para otimizar fluxos de trabalho.
+- **Migrei 50+ páginas PHP** para React + Tailwind CSS (**+15% performance**)
+- **Desenvolvi APIs REST** que substituíram 6 mil planilhas Excel (**-40% erros**)
+- **Soluções Full Stack** com Next.js, React e Laravel para otimizar fluxos de trabalho
 
 ### 🛠️ Tech Stack:
 **Frontend:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
@@ -32,29 +33,37 @@
 ---
 
 ### 👨‍💻 Projetos Destacados:
-1. **[Sistema de Consulta CNPJ](https://github.com/danielbelle/cnpj-api)**  
-   - Stack: Laravel + PostgreSQL + React.  
-   - API utilizada por **80+ clientes**, com cache de consultas à Receita Federal.  
 
-2. **[Dashboard de Performance](https://github.com/danielbelle/analytics-dashboard)**  
-   - Stack: Next.js + TypeScript + Tailwind CSS.  
-   - Redução de **20% no tempo de carregamento** com otimização de imagens.  
+#### 1. [Editor de PDF + Email FullStack](https://github.com/danielbelle/form-pdfedit-emailsend-fullstack)
+- **Stack:** Next.js, Node.js, PostgreSQL
+- **Destaque:** Solução end-to-end para preenchimento e assinatura digital de PDFs com envio automático por email
+- **Impacto:** Otimizou processos municipais, atendendo 40+ usuários/mês
 
-3. **[To-Do App com Autenticação](https://github.com/danielbelle/todo-auth)**  
-   - Stack: Node.js + React + JWT.  
-   - CRUD completo com segurança JWT e deploy na Vercel.  
+#### 2. [Sistema de Consulta CNPJ](https://github.com/danielbelle/cnpj-api)  
+- **Stack:** Laravel + PostgreSQL + React  
+- **Destaque:** API utilizada por 80+ clientes com cache de consultas  
+
+<!--
+#### 3. [Dashboard de Performance](https://github.com/danielbelle/analytics-dashboard)  
+   - Stack: Next.js + TypeScript  
+   - Redução de 20% no tempo de carregamento  
+
+#### 4. [To-Do App com Autenticação](https://github.com/danielbelle/todo-auth)  
+   - Stack: Node.js + React  
+   - CRUD completo com JWT  
+-->
 
 ---
 
 ### 📫 Contato:
 - ✉️ **henrique.danielb@gmail.com**  
 - 💼 **[LinkedIn](https://linkedin.com/in/danielbelle)**  
-- 🌐 **[Portfólio](https://resume-daniel.vercel.app/)** *(opcional: atualize com seus projetos recentes!)*  
+- 🌐 **[Portfólio](https://resume-daniel.vercel.app/)**  
 
 ---
 
 ### ⚡ Curiosidades:
-- 📚 Fã de ficção científica e jogador de Tibia nas horas vagas.  
+- 📚 Fã de ficção científica e jogador de Tibia nas horas vagas  
 - 🎸 Toco ukulele e sou autodidata em tudo que me desafia!  
 - 🚀 Minha filosofia: **"Respira. Código. Repete."**  
 
