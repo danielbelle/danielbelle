@@ -38,12 +38,12 @@
 - **Stack:** Next.js, Node.js, PostgreSQL
 - **Destaque:** Solução end-to-end para preenchimento e assinatura digital de PDFs com envio automático por email
 - **Impacto:** Otimizou processos municipais, atendendo 40+ usuários/mês
-
+<!--
 #### 2. [Sistema de Consulta CNPJ](https://github.com/danielbelle/cnpj-api)  
 - **Stack:** Laravel + PostgreSQL + React  
 - **Destaque:** API utilizada por 80+ clientes com cache de consultas  
 
-<!--
+
 #### 3. [Dashboard de Performance](https://github.com/danielbelle/analytics-dashboard)  
    - Stack: Next.js + TypeScript  
    - Redução de 20% no tempo de carregamento  
@@ -58,14 +58,14 @@
 ### 📫 Contato:
 - ✉️ **henrique.danielb@gmail.com**  
 - 💼 **[LinkedIn](https://linkedin.com/in/danielbelle)**  
-- 🌐 **[Portfólio](https://resume-daniel.vercel.app/)**  
-
+<!--- 🌐 **[Portfólio](https://resume-daniel.vercel.app/)**  -->
 ---
 
-### ⚡ Curiosidades:
-- 📚 Fã de ficção científica e jogador de Tibia nas horas vagas  
-- 🎸 Toco ukulele e sou autodidata em tudo que me desafia!  
-- 🚀 Minha filosofia: **"Respira. Código. Repete."**  
+### ⚡ Além do Código:
+- 📚 Sou entusiasta de ficção científica e nas horas vagas tento jogar Tibia  
+- 🎸 Toco ukulele e autodidata de mente aberta, um superpoder que transforma curiosidade em conhecimento
+- 🚀 Minha frase preferida? **"Respira."**
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielbelle&show_icons=true&theme=dracula&locale=pt-br" alt="danielbelle" />
